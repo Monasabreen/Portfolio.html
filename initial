@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mona Sabreen - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            width: 90%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .about, .education, .experience, .skills, .projects, .achievements, .contact {
+            background: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        .contact a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mona Sabreen</h1>
+        <p>Dynamic Project Management Officer | Business Analytics Specialist</p>
+    </header>
+
+    <div class="container">
+
+        <section class="about">
+            <h2>About Me</h2>
+            <p>I am a dynamic and motivated Project Management Officer with hands-on experience in agile methodologies, stakeholder communication, and project tracking tools. I bring expertise in project management, data analysis, and functional specification development, contributing effectively to cross-functional teams and organizational success.</p>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Master’s in Business Administration (Business Analytics and Logistics):</strong> B. S. Abdur Rahman Crescent University (2020 - 2022)</li>
+                <li><strong>Bachelor’s in Commerce:</strong> Bharath Institute of Higher Education & Research (2017 - 2020)</li>
+                <li><strong>Certifications:</strong> Diploma in Operation Management, Risk Management, GST Certification, Scrum Master Certification</li>
+            </ul>
+        </section>
+
+        <section class="experience">
+            <h2>Professional Experience</h2>
+            <h3>Project Management Officer, Element 5 Inc (Jul 2022 - Present)</h3>
+            <ul>
+                <li>Assisted senior analysts in gathering and documenting business requirements.</li>
+                <li>Created and validated functional specifications and workflows.</li>
+                <li>Collaborated with development teams for software enhancements.</li>
+                <li>Produced user guides and training materials for new software solutions.</li>
+                <li>Facilitated communication between cross-functional teams.</li>
+            </ul>
+
+            <h3>Internships</h3>
+            <ul>
+                <li><strong>Logistics Intern, Seawaves Shipping Services</strong> (Apr 2022 - Jun 2022): Trained in import/export procedures.</li>
+                <li><strong>Logistics Intern, VR DyPro Services</strong> (Aug 2021 - Oct 2021): Focused on shipment documentation for road, air, and marine logistics.</li>
+                <li><strong>Quality Analyst Intern, Avila IT Services Company</strong> (Sep 2020 - Nov 2020): Conducted quality analysis for Walmart’s systems.</li>
+            </ul>
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>Project Management Tools:</strong> ClickUp</li>
+                <li><strong>Software Expertise:</strong> Microsoft Office, Google Analytics, Tableau, SQL</li>
+                <li><strong>Languages:</strong> English, Hindi, Tamil, French</li>
+            </ul>
+        </section>
+
+        <section class="projects">
+            <h2>Portfolio Projects</h2>
+            <p>Created detailed process workflows, streamlined Agile practices, and developed training materials for software adoption.</p>
+        </section>
+
+        <section class="achievements">
+            <h2>Achievements</h2>
+            <ul>
+                <li>Facilitated Agile implementation reducing project turnaround time by 15%.</li>
+                <li>Presented a paper on rural entrepreneurship at an inter-university level.</li>
+            </ul>
+        </section>
+
+        <section class="contact">
+            <h2>Contact</h2>
+            <p>Phone: (+91) 8754463346</p>
+            <p>Email: <a href="mailto:monasabreen3011@gmail.com">monasabreen3011@gmail.com</a></p>
+            <p>LinkedIn: <a href="http://www.linkedin.com/in/monasabreen" target="_blank">linkedin.com/in/monasabreen</a></p>
+        </section>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Mona Sabreen. All rights reserved.</p>
+    </footer>
+</body>
+</html>
